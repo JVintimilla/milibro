@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Bienvenidos a mi libro. Soy Javier Vintimilla
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+En la época actual, muchas empresas están considerando, o adoptando servicios IaaS, los cuales brindan innumerables ventajas, entre las cuales destacan:
 
-Check out the content pages bundled with this sample book to see more.
+- Facilidad de acceso desde cualquier lugar del mundo.
+- Reducción de costos por infraestructura.
+- Rápida escalabilidad.
+- Soporte técnico inmediato.
+- Despreocupación por pérdida de datos por fallas de hardware.
+- Centrarse en el desarrollo de software en lugar de en mantenimiento de hardware.
+
+Es por eso, que a continuación vamos a aprender acerca de los 3 proveedores de IaaS que mejor aceptación, costo o infraestructura tienen.
 
 ```{tableofcontents}
 ```
